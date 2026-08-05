@@ -1,12 +1,22 @@
 body{
     background-color: aquamarine;
+    color: cyan;
+    font-family: Arial, sans-serif;
 }
+
 header{
     background-color: aqua;
+    color:darkturquoise;
+    text-align: center;
+    padding: 30px;;
 }
-main{
-    background-color: azure;
+h1 {
+    font: size 36px; ;
 }
-section{
-    background-color: rgb(178, 206, 200);
+h2 {
+    color:deepskyblue;
+}
+p {
+    font-size: 18px;
+    line-height:1.6 ;
 }
