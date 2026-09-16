@@ -5,3 +5,4 @@ function mostrarMensagem () {
     mensagem.textContent =
     "Você acabou de criar uma interação com JavaScript!";
 }
+
